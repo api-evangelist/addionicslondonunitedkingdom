@@ -1,0 +1,60 @@
+generated: '2026-09-07'
+method: probed
+source: live probes of https://addionics.com/.well-known/* and https://www.addionics.com/.well-known/* on 2026-09-07
+description: >-
+  Results of probing the /.well-known/ discovery surface on every host this record knows. Addionics
+  publishes no API, so there is no API host, no OpenAPI servers[] host and no docs/console host to
+  probe beyond the corporate site — the registrable domain (addionics.com) and its www alias are the
+  complete host set. Every named /.well-known/ path returned a 404 whose body is the site's Next.js
+  HTML 404 page, so nothing was saved and NO WellKnown or SecurityTxt pointer is emitted: this file
+  records a measured absence, not a served surface. The site does publish agent-readable discovery
+  documents, but at conventional root paths rather than under /.well-known/ — /llms.txt (200,
+  text/plain), /agents.md (200, text/markdown), /sitemap.xml (200) and /feed.xml (200,
+  application/rss+xml) — captured in llms/ and wired as LLMsTxt / AgentInstructions / Blog pointers.
+hosts:
+- host: https://addionics.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+    note: HTML 404 page, not a document
+  - path: /.well-known/openid-configuration
+    status: 404
+    note: HTML 404 page, not a document
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+    note: HTML 404 page, not a document
+  - path: /.well-known/api-catalog
+    status: 404
+    note: HTML 404 page, not a document
+  - path: /.well-known/ai-plugin.json
+    status: 404
+    note: HTML 404 page, not a document
+  - path: /.well-known/agent-card.json
+    status: 404
+    note: HTML 404 page, not a document
+  - path: /.well-known/agent.json
+    status: 404
+    note: legacy pre-0.3 agent card path; HTML 404 page, not a document
+- host: https://www.addionics.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+    note: redirects to the apex host, which answers an HTML 404 page
+  - path: /.well-known/openid-configuration
+    status: 404
+    note: redirects to the apex host, which answers an HTML 404 page
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+    note: redirects to the apex host, which answers an HTML 404 page
+  - path: /.well-known/api-catalog
+    status: 404
+    note: redirects to the apex host, which answers an HTML 404 page
+  - path: /.well-known/ai-plugin.json
+    status: 404
+    note: redirects to the apex host, which answers an HTML 404 page
+  - path: /.well-known/agent-card.json
+    status: 404
+    note: redirects to the apex host, which answers an HTML 404 page
+  - path: /.well-known/agent.json
+    status: 404
+    note: redirects to the apex host, which answers an HTML 404 page

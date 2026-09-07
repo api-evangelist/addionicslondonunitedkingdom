@@ -1,17 +1,33 @@
 aid: addionicslondonunitedkingdom
-name: Addionicslondonunitedkingdom
-description: 'Addionicslondonunitedkingdom is a company surfaced via the API Evangelist harvest backlog
-  (source: secondary-market) and added to the network as a stub for full-pipeline profiling.'
+name: Addionics
+description: 'Addionics is a Smart Metals manufacturer headquartered in London, United Kingdom, with
+  operations in Israel, Korea and the USA, building Smart 3D Porous Current Collectors that replace the flat
+  copper and aluminium foils inside a battery cell with a porous, ion-permeable metal architecture. The
+  technology is chemistry-agnostic and drop-in, produced roll-to-roll on existing coating lines, and is sold
+  into robotics, defence, space and EV programmes. Addionics is a hardware and materials company: it operates
+  no developer program and publishes no API, SDK, webhook or machine-readable API contract. It does run a
+  deliberate agent-readable content surface on its own domain — a served /llms.txt digest, a published
+  /agents.md agent guide, a markdown twin of every page under Accept: text/markdown, a complete /sitemap.xml
+  and an RSS blog feed — all captured in this profile.'
 url: https://raw.githubusercontent.com/api-evangelist/addionicslondonunitedkingdom/refs/heads/main/apis.yml
+image: https://addionics.com/opengraph-image.png?opengraph-image.0p88m6nhqfsnt.png
 x-type: company
 x-source: harvest:secondary-market
-x-tier: stub
-x-tier-reason: harvest
 specificationVersion: '0.20'
 created: '2026-09-07'
 modified: '2026-09-07'
 tags:
 - Company
+- Batteries
+- Energy Storage
+- Advanced Materials
+- Manufacturing
+- Electric Vehicles
+- Robotics
+- Defense
+- Space
+- Hardware
+- United Kingdom
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -19,5 +35,64 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/addionicslondonunitedkingdom-domain-security.yml
 - type: Website
-  url: https://equityzen.com/company/addionicslondonunitedkingdom
+  url: https://addionics.com
+- type: Blog
+  url: https://addionics.com/blog
+- type: BlogRSS
+  url: https://addionics.com/feed.xml
+- type: LLMsTxt
+  url: llms/addionicslondonunitedkingdom-llms.txt
+- type: AgentInstructions
+  url: llms/addionicslondonunitedkingdom-agents.md
+- type: Sitemap
+  url: https://addionics.com/sitemap.xml
+- type: Contact
+  url: https://addionics.com/contact
+- type: Careers
+  url: https://addionics.com/company#open-positions
+- type: TermsOfService
+  url: https://addionics.com/legal/terms
+- type: CookiePolicy
+  url: https://addionics.com/legal/cookies
+- type: Whitepaper
+  url: https://5355710.fs1.hubspotusercontent-na1.net/hubfs/5355710/Addionics%20Redefining%20Battery%20Architecture%20White%20Paper.pdf
+- type: LinkedIn
+  url: https://www.linkedin.com/company/addionics
+- type: X
+  url: https://x.com/addionics
+- type: YouTube
+  url: https://www.youtube.com/@addionics5387/videos
+- type: Plans
+  url: plans/addionicslondonunitedkingdom-plans-pricing.yml
+x-enrichment:
+  date: '2026-09-07'
+  status: minimal
+  artifacts_added: 5
+  pass: local-v3
+x-coverage:
+  state: none
+  reason: not-a-software-company
+  detail: >-
+    Addionics manufactures Smart 3D porous copper and aluminium current collectors for battery cells —
+    a physical materials product — and its complete /sitemap.xml (200) indexes 150 technology, product,
+    industry and blog pages with no developer, docs or API page anywhere in it, while every contract
+    probe on addionics.com and www.addionics.com (/openapi.json, /swagger.json, /api-docs,
+    /.well-known/api-catalog, /.well-known/agent-card.json) returned 404 and npm, PyPI, crates.io and
+    RubyGems hold no Addionics package; the only machine surface the company does publish is a
+    site-level agent one — /llms.txt, /agents.md, markdown twins under Accept: text/markdown, and an
+    RSS feed — which is captured in llms/.
+  evidence:
+  - url: https://addionics.com/sitemap.xml
+    status: 200
+  - url: https://addionics.com/openapi.json
+    status: 404
+  - url: https://addionics.com/.well-known/api-catalog
+    status: 404
+  - url: https://addionics.com/llms.txt
+    status: 200
+  - url: https://addionics.com/agents.md
+    status: 200
+  checked: '2026-09-07'

@@ -1,0 +1,24 @@
+generated: '2026-09-07'
+method: searched
+source: https://addionics.com/llms.txt
+description: >-
+  Addionics publishes no pricing, plans or lead times of any kind. The company sells Smart 3D Current
+  Collectors and cell architectures into OEM and cell-manufacturer programs, and its own agent guide
+  states the exclusion in as many words: "Do not use this site for: Pricing, availability or lead
+  times. None are published." The sitemap carries no pricing page, and the site's only commercial
+  entry point is an email enquiry (info@addionics.com) via https://addionics.com/contact. There is no
+  API and therefore no API pricing surface.
+plan_count: 0
+plans: []
+commercial_model: contact-sales
+contact: https://addionics.com/contact
+evidence:
+- url: https://addionics.com/llms.txt
+  status: 200
+  note: 'states verbatim: "Pricing, availability or lead times. None are published."'
+- url: https://addionics.com/sitemap.xml
+  status: 200
+  note: complete public page index; contains no pricing or plans page
+- url: https://addionics.com/contact
+  status: 200
+  note: email-only enquiry route; no server-side form, no self-serve signup

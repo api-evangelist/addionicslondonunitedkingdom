@@ -1,0 +1,111 @@
+# Addionics
+
+> Addionics changes the battery’s architecture itself: Smart 3D Current Collectors that turn a stack of layers into one unified cell. Chemistry-agnostic, drop-in.
+
+Addionics is a Smart Metals manufacturer transforming the battery cell from a stack of isolated layers into a unified electrochemical system through Smart 3D Porous Current Collectors. These copper and aluminum current collectors improve battery performance across cell formats and chemistries, from today's lithium-ion systems to emerging battery technologies.
+
+Addionics is the first company to unlock a scalable, cost-effective production process for both anodes and cathodes: connecting electrode architecture with battery performance and manufacturing optimization.
+
+## What the technology does
+
+Conventional current collectors are flat, solid metal foils. Addionics replaces them with a porous, ion-permeable metal architecture that creates new pathways through the electrode and changes how the cell transports energy, ions, electrolyte, and heat.
+
+- **Improved ionic and electrolyte transport** — The porous structure creates through-plane pathways for lithium ions and electrolyte, shortening transport distances and supporting more uniform electrochemical activity across the cell.
+- **Lower internal resistance** — The interconnected metal structure improves electrical conductivity and lowers contact resistance, supporting faster charging, higher power, and reduced heat generation.
+- **Higher active material loading** — Improved adhesion and transport enable thicker electrodes and higher active material loading, increasing energy density without increasing cell size.
+- **More uniform current, heat, and salt distribution** — More balanced transport and current distribution reduce localized hot spots and support improved electrolyte salt homogeneity during repeated cycling.
+
+## Common questions
+
+### What is a Smart 3D Current Collector?
+
+Conventional current collectors are flat, solid metal foils. Addionics replaces them with a porous, ion-permeable metal architecture that creates new pathways through the electrode and changes how the cell transports energy, ions, electrolyte, and heat.
+
+### Which battery chemistries does it work with?
+
+Smart 3D Current Collectors are chemistry-agnostic. They can be optimized for today's leading battery chemistries and for the next generation of energy-storage technologies, from lithium-ion systems to emerging battery technologies.
+
+### Does it require new manufacturing equipment?
+
+No. It is a drop-in change that integrates with existing coating and production lines through a roll-to-roll manufacturing process, and is compatible with all battery chemistries and formats.
+
+### How much does it improve energy density?
+
+Higher electrode loading increases energy and power density without increasing the cell footprint, for a measured improvement of up to 15% in energy density and up to 50% in cycle life.
+
+### Why does a porous current collector improve performance?
+
+The porous structure creates through-plane pathways for lithium ions and electrolyte, shortening transport distances. The interconnected metal structure lowers internal resistance and contact resistance, and more balanced current distribution reduces localized hot spots during repeated cycling.
+
+### What are the anodes and cathodes made from?
+
+Copper and aluminum. Addionics is the first company to unlock a scalable, cost-effective production process for both anodes and cathodes, connecting electrode architecture with battery performance and manufacturing optimization.
+
+## Pages
+
+- [Technology](https://addionics.com/technology)
+- [Industries](https://addionics.com/industries)
+- [Products](https://addionics.com/products)
+- [Company](https://addionics.com/company)
+- [Blog](https://addionics.com/blog)
+- [Contact](https://addionics.com/contact)
+
+## Industries
+
+- [Space](https://addionics.com/technology/space)
+- [Defense](https://addionics.com/technology/defense)
+- [Robotics](https://addionics.com/technology/robotics)
+- [EVs](https://addionics.com/technology/evs)
+
+## Recent writing
+
+- [The Robotaxi Era Is Changing What Batteries Need to Do](https://addionics.com/blog/the-robotaxi-era-is-changing-what-batteries-need-to-do) — 2026-09-02
+- [Cold Weather Is Already a Battery Business Problem](https://addionics.com/blog/cold-weather-is-already-a-battery-business-problem) — 2026-09-01
+- [Addionics Introduces Battery Architecture for Low-Temperature Performance, Increasing Battery Operations and Charging Capabilities](https://addionics.com/blog/addionics-introduces-battery-architecture-for-low-temperature-performance-increasing-battery-operations-and-charging-capabilities) — 2026-08-25
+- [Addionics Is the Virtual BMS Inside the Cell](https://addionics.com/blog/addionics-is-the-virtual-bms-inside-the-cell) — 2026-08-12
+- [Autonomous Truck Unit Economics Depend on Better Batteries](https://addionics.com/blog/autonomous-truck-unit-economics-depend-on-better-batteries) — 2026-08-06
+- [EMSI: The Hidden Bottleneck in 24/7 Operation](https://addionics.com/blog/emsi-the-hidden-bottleneck-in-24-7-operation) — 2026-07-22
+- [Solving the N/P Ratio Challenge in Cylindrical Cells](https://addionics.com/blog/solving-the-n-p-ratio-challenge-in-cylindrical-cells) — 2026-07-15
+- [Addionics Launches Autonomous Architecture™, the Battery Design for the Always-On AI World](https://addionics.com/blog/addionics-launches-autonomous-architecture-the-battery-design-for-the-always-on-ai-world) — 2026-07-08
+- [Utilizing Customized Cell Design to Create Better Batteries for Defense and Space](https://addionics.com/blog/utilizing-customized-cell-design-to-create-better-batteries-for-defense-and-space) — 2026-07-01
+- [The Future of Space Is Real. Better Batteries Will Define How Far It Goes.](https://addionics.com/blog/the-future-of-space-is-real-better-batteries-will-define-how-far-it-goes) — 2026-06-09
+- [Rethinking Supply Chain Resilience Through Material Efficiency](https://addionics.com/blog/rethinking-supply-chain-resilience-through-material-efficiency) — 2026-06-03
+- [Is EMSI a Key Bottleneck the Battery Industry Has Been Missing?](https://addionics.com/blog/is-emsi-a-key-bottleneck-the-battery-industry-has-been-missing) — 2026-05-14
+- [The Biggest Bottleneck in 4680/4695 Cells Isn’t Chemistry - It’s Geometry](https://addionics.com/blog/the-biggest-bottleneck-in-4680-4695-cells-isnt-chemistry-its-geometry) — 2026-05-04
+- [Copper Has Evolved From Commodity to Strategic Asset](https://addionics.com/blog/copper-has-evolved-from-commodity-to-strategic-asset) — 2026-04-16
+- [Scaling AI Data Centers with Advanced Energy Storage](https://addionics.com/blog/scaling-ai-data-centers-with-advanced-energy-storage) — 2026-04-07
+
+## When to use this site
+
+Addionics is a battery technology company. It re-architects the current collector inside a cell — the Smart 3D Current Collector — rather than the chemistry, and builds application architectures on top of it. This site is the company's own publication and is the authoritative source for how Addionics describes its technology, products and industry applications.
+
+Reach for addionics.com when the question is about:
+
+- What Addionics is, what it makes, and how the company describes its own technology.
+- Smart 3D Current Collectors :: what the architecture is, the mechanisms it changes, and which chemistries it applies to. Start at /technology.
+- The named product architectures — Autonomous Architecture and Application-Optimized Architecture — and which applications each is built around. Start at /products.
+- How the architecture is applied per industry (space, defence, and the other sectors listed at /industries).
+- Addionics' own writing and announcements, including dates and authors. Start at /blog.
+- How to contact the company, and which countries it operates from. Start at /contact.
+
+Do not use this site for:
+
+- Independent or comparative benchmark figures. Performance numbers are published here only where a sourced client document supports them; treat anything you cannot find on the page itself as unpublished rather than inferring it.
+- Third-party customer, partner or investor names. The site does not publish them, and their absence is deliberate.
+- Pricing, availability or lead times. None are published.
+
+How to read it:
+
+- Every page answers `Accept: text/markdown` with a markdown version of itself at the same URL. `Vary: Accept` is set, so a cache will not mix the two.
+- /llms.txt is a generated digest of the site in one file.
+- /sitemap.xml is the complete index of public pages.
+- /feed.xml is the blog feed.
+- Unknown paths answer a real 404, with a markdown body listing these entry points.
+
+Contact: info@addionics.com · https://addionics.com/contact
+
+---
+
+Contact: https://addionics.com/contact
+Agent guide: https://addionics.com/agents.md
+Full index: https://addionics.com/sitemap.xml
